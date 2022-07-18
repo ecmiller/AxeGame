@@ -20,7 +20,7 @@ make game
 make[1]: *** No rule to make target `main.c', needed by `game'.  Stop.
 
 
-# Make data base, printed on Mon Jul 18 00:11:44 2022
+# Make data base, printed on Mon Jul 18 00:17:45 2022
 
 # Variables
 
@@ -218,12 +218,12 @@ VSCODE_PID = 684
 # Directories
 
 # /opt/homebrew/include (device 16777232, inode 11396887): 21 files, no impossibilities.
-# . (device 16777232, inode 17146179): 8 files, no impossibilities.
+# . (device 16777232, inode 17146179): 13 files, no impossibilities.
 # ..\../src: could not be stat'd.
 # src: could not be stat'd.
 # /opt/homebrew/lib (device 16777232, inode 11396888): 57 files, no impossibilities.
 
-# 86 files, no impossibilities in 5 directories.
+# 91 files, no impossibilities in 5 directories.
 
 # Implicit Rules
 
@@ -315,13 +315,13 @@ game: main.c
  
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Mon Jul 18 00:11:44 2022
+# Finished Make data base on Mon Jul 18 00:17:45 2022
 
  
 make: *** [all] Error 2
 
 
-# Make data base, printed on Mon Jul 18 00:11:44 2022
+# Make data base, printed on Mon Jul 18 00:17:45 2022
 
 # Variables
 
@@ -519,12 +519,12 @@ VSCODE_PID = 684
 # Directories
 
 # /opt/homebrew/include (device 16777232, inode 11396887): 21 files, no impossibilities.
-# . (device 16777232, inode 17146179): 8 files, no impossibilities.
+# . (device 16777232, inode 17146179): 13 files, no impossibilities.
 # ..\../src: could not be stat'd.
 # src: could not be stat'd.
 # /opt/homebrew/lib (device 16777232, inode 11396888): 57 files, no impossibilities.
 
-# 86 files, no impossibilities in 5 directories.
+# 91 files, no impossibilities in 5 directories.
 
 # Implicit Rules
 
@@ -632,6 +632,6 @@ game: main.c
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Mon Jul 18 00:11:44 2022
+# Finished Make data base on Mon Jul 18 00:17:45 2022
 
  
